@@ -1,4 +1,4 @@
-# 📊 Introduction
+# 📈 Introduction
 
 A comprehensive financial dashboard project that leverages a **double-entry accounting system**, ETL processes, and Power BI for insightful financial analysis and reporting.
 
