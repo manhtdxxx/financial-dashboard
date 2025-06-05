@@ -2,7 +2,7 @@
 
 A comprehensive financial dashboard project that leverages a **double-entry accounting system**, ETL processes, and Power BI for insightful financial analysis and reporting.
 
-## 🚀 Project Overview
+# 🚀 Project Overview
 
 This project demonstrates the end-to-end development of a financial data pipeline and reporting system, including:
 
@@ -11,7 +11,7 @@ This project demonstrates the end-to-end development of a financial data pipelin
 - Automating the **ETL process** with Python scripts.
 - Visualizing key financial metrics in **Power BI**.
 
-## 📊 Dashboard Overview
+# 📊 Dashboard Overview
 
 This report includes four dashboards, each highlighting a different aspect of the company’s financials using key performance indicators (KPIs):
 
